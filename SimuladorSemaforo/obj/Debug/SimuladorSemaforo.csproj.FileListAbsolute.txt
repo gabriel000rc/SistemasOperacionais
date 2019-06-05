@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\SimuladorSemaforo\SimuladorSemaforo\bin\Debug\SimuladorSemaforo.exe.config
+C:\Users\gabri\source\repos\SimuladorSemaforo\SimuladorSemaforo\bin\Debug\SimuladorSemaforo.exe
+C:\Users\gabri\source\repos\SimuladorSemaforo\SimuladorSemaforo\bin\Debug\SimuladorSemaforo.pdb
+C:\Users\gabri\source\repos\SimuladorSemaforo\SimuladorSemaforo\obj\Debug\SimuladorSemaforo.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\SimuladorSemaforo\SimuladorSemaforo\obj\Debug\SimuladorSemaforo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\SimuladorSemaforo\SimuladorSemaforo\obj\Debug\SimuladorSemaforo.exe
+C:\Users\gabri\source\repos\SimuladorSemaforo\SimuladorSemaforo\obj\Debug\SimuladorSemaforo.pdb
